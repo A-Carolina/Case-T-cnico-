@@ -1,4 +1,5 @@
 # Case-T-cnico-
+A aplicação pode ser rodada em uma IDE como DevC++ ou CodeBlocks. Caso não seja possível utilizá-las, o teste pode ser realizado em: https://www.onlinegdb.com/online_c_compiler (Na opção "Language", escolha C++).
 Transformei a proposta do case técnico em 3 funções dentro do código. A primeira tem por objetivo cadastrar os clientes, a segunda visa listar os clientes por ordem alfabética e por ordem crescente de idade e a terceira função retorna dados sobre a faixa etária dos clientes.
 Para testar as funções do código:
 1 - No menu principal, escolha a opção "Cadastro";
